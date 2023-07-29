@@ -1,8 +1,16 @@
 ![portada](https://github.com/PaosLuna/PaosLuna/blob/5d28539f346e3dad8cc68b1165147c190747dfb4/PortadaGitHub.jpg)
 
-# ¡Hola! 👋 Soy Paola Luna 🌙💫 
+# ¡Hola! 👋 Soy Paola Luna 🌙 
 
-¡Bienvenido/a a mi rincón en GitHub! <br> Soy una apasionada mexicana que está dando sus primeros pasos en el emocionante mundo del Frontend. Anteriormente, me desenvolvía en el mundo del periodismo, pero mi curiosidad y amor por la tecnología me llevaron a adentrarme en este emocionante universo.<br><br>Sobre mí 💁‍♀️<br>🇲🇽 Mexicana con el corazón lleno de orgullo por mi país y su comida.<br>👩‍💻 Iniciando en el mundo del Frontend, emocionada por aprender y mejorar cada día.<br>🗣️ Con un background en comunicación, me encanta encontrar formas creativas de transmitir mensajes y construir interfaces amigables.<br>😄 Tengo un buen sentido del humor y creo que la risa es el mejor metodo para tener un buen día.<br>🎵 Amante de la música, siempre encontrarás una playlist curada con cariño para inspirarme mientras desarrollo.
+## ¡Bienvenido/a a mi rincón en GitHub! 💫 
+
+Soy una apasionada mexicana que está dando sus primeros pasos en el emocionante mundo del Frontend. Anteriormente me desenvolvía en el mundo del periodismo, pero mi curiosidad y amor por la tecnología me
+llevaron a adentrarme en este emocionante universo.
+
+Sobre mí 💁‍♀️
+
+🇲🇽 Mexicana con el corazón lleno de orgullo por mi país y su comida.<br>👩‍💻 Iniciando en el mundo del Frontend, emocionada por aprender y mejorar cada día.<br>🗣️ Con un background en comunicación,
+me encanta encontrar formas creativas de transmitir mensajes y construir interfaces amigables.<br>😄 Tengo un buen sentido del humor y creo que la risa es el mejor metodo para tener un buen día.<br>🎵 Amante de la música, siempre encontrarás una playlist curada con cariño para inspirarme mientras desarrollo.
 
 
 ## 🌐 Socials:
