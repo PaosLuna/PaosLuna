@@ -7,11 +7,18 @@
 Soy una apasionada mexicana que está dando sus primeros pasos en el emocionante mundo del Frontend. Anteriormente me desenvolvía en el mundo del periodismo, pero mi curiosidad y amor por la tecnología me
 llevaron a adentrarme en este emocionante universo.
 
-Sobre mí 💁‍♀️
+## Sobre mí 💜
 
 🇲🇽 Mexicana con el corazón lleno de orgullo por mi país y su comida.<br>👩‍💻 Iniciando en el mundo del Frontend, emocionada por aprender y mejorar cada día.<br>🗣️ Con un background en comunicación,
 me encanta encontrar formas creativas de transmitir mensajes y construir interfaces amigables.<br>😄 Tengo un buen sentido del humor y creo que la risa es el mejor metodo para tener un buen día.<br>🎵 Amante de la música, siempre encontrarás una playlist curada con cariño para inspirarme mientras desarrollo.
 
+## Mis intereses 🌟
+Mi objetivo es crecer como desarrolladora Frontend y contribuir a proyectos que tengan un impacto positivo en las personas. Me emociona la idea de colaborar en proyectos que combinen creatividad, tecnología y diseño para mejorar la experiencia del usuario.
+
+## ¡Conéctate! 🤝
+Estoy entusiasmada por conocer a otros apasionados del desarrollo y la tecnología. ¡No dudes en contactarme si quieres charlar, colaborar en proyectos o compartir buenas recomendaciones musicales!
+
+¡Gracias por visitar mi perfil! ¡Que tengas un maravilloso día! 🌈🎉
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paola-luna-frontend/)
