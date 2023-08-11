@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy Paola Luna 🌙 
 
-## ¡Bienvenido/a a mi rincón en GitHub! 💫 
+## ¡Bienvenido/a a mi GitHub! 💫 
 
 Soy una apasionada mexicana que está dando sus primeros pasos en el emocionante mundo del Frontend. Anteriormente me desenvolvía en el mundo del periodismo, pero mi curiosidad y amor por la tecnología me
 llevaron a adentrarme en este emocionante universo.
