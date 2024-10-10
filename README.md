@@ -4,8 +4,7 @@
 
 ## ¡Bienvenido/a a mi GitHub! 💫 
 
-Soy una apasionada mexicana que está dando sus primeros pasos en el emocionante mundo del Frontend. Anteriormente me desenvolvía en el mundo del periodismo, pero mi curiosidad y amor por la tecnología me
-llevaron a adentrarme en este emocionante universo.
+Soy una apasionada mexicana con más de un año de experiencia en el emocionante mundo del Frontend. Anteriormente me desenvolvía en el mundo de la comunicación, pero mi curiosidad y amor por la tecnología me llevaron a adentrarme en este emocionante universo.
 
 ## Sobre mí 💜
 
